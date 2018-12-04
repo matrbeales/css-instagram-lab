@@ -1,0 +1,101 @@
+main {
+  position: absolute;
+  font-family: sans-serif;
+}
+
+.main-image {
+  position: relative;
+  display: inline-block;
+}
+
+aside {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+footer {
+  position:absolute;
+  display: inline-block;
+  top: 650px;
+  text-align: center;
+  color: #04327c;
+  font-size: 15px;
+  font-weight: bold;
+  width: 900px;
+}
+
+.login-details {
+  list-style-position: inside;
+  list-style-type: none;
+  text-align: left;
+  padding: 5px;
+  Color: lightgrey;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.login-details li {
+  border: 1px solid lightgrey;
+  margin-bottom: 5px;
+}
+
+.sign-up {
+  border: 1px solid lightgrey;
+  width: 75%;
+  margin-bottom: 10px;
+}
+
+.log-in {
+  border: 1px solid lightgrey;
+  width: 75%;
+  margin-bottom: 10px;
+}
+
+.apps {
+  width:75%;
+}
+
+.intro {
+  color: grey;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.blue-button {
+  background-color: #1196EF;
+  color: white;
+  font-size: 20px;
+  Padding: 5px;
+  Width: 80%;
+  margin: 10px auto 15px auto;
+  border-radius: 5px;
+}
+
+.or {
+  font-size: 15px;
+  color: grey;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.terms {
+  color: grey;
+  font-size: 20px;
+}
+
+.insta-logo {
+  height: 50%;
+  width: 50%;
+}
+
+.navbar {
+  list-style-type: none;
+  Display: inline-block;
+}
+
+.navbar li {
+  float: left;
+  margin-right: 20px;
+}
